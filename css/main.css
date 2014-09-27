@@ -15,11 +15,13 @@ body {
 
 }
 
-#wrapper{
+/*#wrapper{
 width:1000px;
 float:center;
-}
+}*/
 #main-content{
+	width:500px;
+	margin:auto;
 	float: center;
 }
 
