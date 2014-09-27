@@ -12,8 +12,8 @@ body {
   background-color:#4D4DAE !important;
 }
 
-#my-name{
-	font-weight:1.3em;
+#wrapper{
+margin: 0px, 100px, 10px;
 }
 
 p {
