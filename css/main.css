@@ -9,7 +9,7 @@ body {
   line-height: 1.5;
   color: #281C10;
   font-size: 16px;
-  background-color:red!important;
+  background-color:#4D4DAE !important;
   
 
 
@@ -17,8 +17,7 @@ body {
 
 #wrapper{
 width:1000px;
-margin-left:auto;
-margin-right:auto;
+
 float:center;
 
 }
