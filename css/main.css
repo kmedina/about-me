@@ -18,12 +18,15 @@ body {
 #wrapper{
 width:1000px;
 float:center;
-margin-left:250px;
+}
+#main-content{
+	float: center;
 }
 
 p {
 	margin-bottom: 1.3em;
 	max-width: 35em;
+
 	
 }
 
