@@ -15,16 +15,16 @@ body {
 
 }
 
-/*#wrapper{
+#wrapper{
 width:1000px;
-float:center;
-}*/
+border-style:dashed;
+}
 #main-content{
 	width:500px;
 	margin:auto;
 	float: center;
 	background-color:Cornsilk;
-	padding:50px 50px 50px;
+    padding:50px 50px 50px;
 	border-radius:15px;
 }
 
