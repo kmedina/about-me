@@ -12,6 +12,10 @@ body {
   background-color:#4D4DAE !important;
 }
 
+#my-name{
+	font-weight:1.3em;
+}
+
 p {
 	margin-bottom: 1.3em;
 	max-width: 35em;
