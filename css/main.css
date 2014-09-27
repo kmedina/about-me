@@ -16,8 +16,10 @@ body {
 }
 
 #wrapper{
-width:1000px;
+width:800px;
 border-style:dashed;
+margin:auto;
+
 }
 #main-content{
 	width:500px;
