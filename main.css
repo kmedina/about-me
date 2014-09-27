@@ -10,6 +10,7 @@ body {
   color: #333;
   font-size: 16px;
   background-color:#4D4DAE !important;
+  text-align:center;
 
 }
 
@@ -21,14 +22,14 @@ margin-right:auto;}
 p {
 	margin-bottom: 1.3em;
 	max-width: 35em;
-	color:#53290B;
+	color:#855C33;
 }
 
 h1, h2, h3, h4 {
   margin: 1.414em 0 0.5em;
   font-weight: inherit;
   line-height: 1.2;
-  color:#53290B;
+  color:#855C33;
 }
 
 h1 {
